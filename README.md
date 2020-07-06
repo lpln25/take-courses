@@ -1,7 +1,7 @@
 # take-courses
 select course system in university
 
-![list student]https://github.com/lpln25/take-courses/blob/master/image/student.png)
+![list student](https://github.com/lpln25/take-courses/blob/master/image/student.png)
 
 Console program in C++ and Object oriented base.
 
